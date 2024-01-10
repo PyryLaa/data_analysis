@@ -1,3 +1,12 @@
+'''
+This is a class for a fraction number
+class contains a simplify method
+that will simplify the fraction 
+using the greatest common divisor method
+and Euclidean algorithm
+'''
+
+
 class fraction:
     numerator = None
     denominator = None
